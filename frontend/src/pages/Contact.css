@@ -1,0 +1,47 @@
+.contact-page {
+  padding-top: 100px;
+  min-height: 80vh;
+}
+.contact-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+.contact-header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+.contact-grid {
+  display: grid;
+  grid-template-columns: 1fr 1.5fr;
+  gap: 40px;
+}
+.contact-info, .contact-form {
+  padding: 40px;
+}
+.info-items {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+.info-item {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.info-item h4 {
+  font-size: 1.1rem;
+  margin-bottom: 4px;
+}
+.info-item p {
+  color: var(--text-secondary);
+}
+.contact-form h3, .contact-info h3 {
+  font-size: 1.5rem;
+  margin-bottom: 16px;
+}
+@media (max-width: 768px) {
+  .contact-grid {
+    grid-template-columns: 1fr;
+  }
+}

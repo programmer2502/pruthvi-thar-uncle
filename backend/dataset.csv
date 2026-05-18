@@ -1,0 +1,76 @@
+rpm,temp,dtc,symptoms,fault
+0,40,,car is not starting dead battery,Battery Issue
+0,35,,won't turn over lights dim,Battery Issue
+0,45,,dead battery won't start,Battery Issue
+0,30,P0562,clicking noise when I turn the key,Battery Issue
+0,42,,no power at all dashboard is dark,Battery Issue
+0,38,,engine won't crank just clicks,Battery Issue
+0,36,,battery warning light on dashboard,Battery Issue
+0,28,,car completely dead no electrical power,Battery Issue
+0,32,,key doesn't start car battery flat,Battery Issue
+
+0,40,P0562,car dies while driving dim lights,Alternator Failure
+0,90,P0562,battery light is on dashboard alternator,Alternator Failure
+0,85,,whining noise from engine bay low voltage,Alternator Failure
+0,80,P0562,electrical systems failing while driving,Alternator Failure
+0,75,,headlights dimming while car is running,Alternator Failure
+0,78,,battery keeps dying after replacement,Alternator Failure
+
+1300,90,P0300,weird engine noise knocking sound,Engine Misfire
+1500,95,P0300,engine shaking loss of power,Engine Misfire
+1200,90,P0300,rough idle check engine light flashing,Engine Misfire
+2000,95,P0300,stuttering on highway hesitating,Engine Misfire
+1800,92,P0300,jerking acceleration bad vibration,Engine Misfire
+1500,95,P0300,engine noise loud rumbling,Engine Misfire
+1400,93,P0300,check engine symbol on display misfiring,Engine Misfire
+1600,91,P0301,engine symbol showing on dashboard rough running,Engine Misfire
+1700,94,P0302,engine warning light is on shaking at idle,Engine Misfire
+1100,89,P0303,engine malfunction symbol displayed loss of power,Engine Misfire
+1200,90,P0304,warning light on dashboard engine not smooth,Engine Misfire
+1350,92,P0300,car shuddering engine symbol lit up,Engine Misfire
+
+2500,105,P0420,bad smell poor fuel economy rotten egg,Catalytic Converter Failure
+2000,100,P0420,lack of power exhaust smell sulfur,Catalytic Converter Failure
+2100,102,P0420,check engine light bad mileage sluggish,Catalytic Converter Failure
+2300,103,P0420,engine symbol on display fuel economy dropped,Catalytic Converter Failure
+2200,101,P0430,rotten egg smell from exhaust warning light on,Catalytic Converter Failure
+
+2200,98,P0171,hesitation upon acceleration rough idle,Oxygen Sensor Failure
+1800,90,P0171,poor gas mileage running lean,Oxygen Sensor Failure
+1900,92,P0133,slow response from engine poor fuel efficiency,Oxygen Sensor Failure
+2000,95,P0136,check engine symbol lit fuel consumption increased,Oxygen Sensor Failure
+2100,96,P0141,engine warning light on poor acceleration,Oxygen Sensor Failure
+1950,91,P0171,engine symbol on screen reduced performance,Oxygen Sensor Failure
+
+1000,90,,squealing noise when braking high pitch,Worn Brake Pads
+1100,85,,grinding noise from wheels when stopping,Worn Brake Pads
+800,80,,brake pedal feels soft takes long to stop,Worn Brake Pads
+0,25,,screeching sound when I press brakes,Worn Brake Pads
+900,82,,brakes making noise when stopping,Worn Brake Pads
+1000,85,,very long braking distance pedal spongy,Worn Brake Pads
+
+0,50,,engine overheats quickly sweet smell,Coolant Leak
+1500,120,,temperature gauge high steam from hood,Coolant Leak
+2000,110,,puddle of green yellow liquid under car,Coolant Leak
+1000,115,,coolant warning light on temperature high,Coolant Leak
+500,118,,steam coming from engine bay overheating,Coolant Leak
+0,55,,sweet coolant smell no visible leak but overheating,Coolant Leak
+
+900,90,,vibration when driving high speed steering shakes,Wheel Alignment Issue
+1000,90,,pulling to one side drifts left or right,Wheel Alignment Issue
+2000,85,,steering wheel is crooked uneven tire wear,Wheel Alignment Issue
+1500,88,,car drifts without hands on steering wheel,Wheel Alignment Issue
+1200,86,,tires wearing unevenly steering pulls,Wheel Alignment Issue
+
+0,30,,AC not blowing cold air at all,AC Refrigerant Leak
+0,35,,warm air from AC vents hissing sound,AC Refrigerant Leak
+1500,90,,air conditioner stopped working suddenly,AC Refrigerant Leak
+1000,88,,AC blows warm air refrigerant gone,AC Refrigerant Leak
+0,32,,no cold air from AC compressor running,AC Refrigerant Leak
+
+2000,95,P0700,gears slipping won't shift up,Transmission Issue
+1800,90,P0700,delayed shifting hard shift clunking,Transmission Issue
+1200,85,,car revs high but moves slowly,Transmission Issue
+0,40,P0700,transmission fluid leak smells burnt,Transmission Issue
+1600,92,P0700,transmission warning light on gear change problems,Transmission Issue
+1400,88,,automatic transmission jerking between gears,Transmission Issue
